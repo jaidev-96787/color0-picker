@@ -1,0 +1,12 @@
+.App{
+
+}
+.box1{
+  width: 400px;
+  height: 150px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto;
+}
